@@ -1,5 +1,5 @@
 # Packet-Analysis-and-Network-Reconnaissance-
-
+(For a more detailed report, download the document or visit https://blog.lohitgaddipati.com)
 
 In a recent incident investigation, I uncovered a brute force attack that targeted a user's account. The attacker, identified as "kali" with the IP address "192.168.56.101," initiated the attack at 11:48 AM on 09/07/2022. 
 After multiple failed attempts, they successfully breached the account of "JSmith" at 11:56 AM.
